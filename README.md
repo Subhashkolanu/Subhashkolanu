@@ -8,7 +8,7 @@
 
 🎓 Engineering Student in Computer Science Engineering  
 💻 Passionate about Programming and Software Development  
-🌱 Currently learning Java OOP, Python and AI  
+🌱 Currently learning Java, Python and AI  
 🔥 Building projects and improving coding skills daily  
 ⚡ Interested in AI, Development and Problem Solving  
 
@@ -20,7 +20,7 @@
   ☕ Java <br>
   🐍 Python <br>
   🔵 C Programming <br>
-  🤖 AI & TypeScript <br>
+  🤖 AI <br>
   📊 MATLAB <br>
   📐 Simulink <br>
   🏗️ AutoCAD <br>
