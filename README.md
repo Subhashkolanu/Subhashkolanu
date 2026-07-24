@@ -1,142 +1,42 @@
-# Hi there! 👋 I'm **Sai Subhash Kolanu**
+<h1 align="center">Hi 👋, I'm Sai Subhash Kolanu</h1>
 
-### 💻 Computer Science Engineering Student | ☕ Java Developer | 🤖 AI Enthusiast | 🚀 Aspiring Software Engineer
+<p align="center">
+  <b>Computer Science Engineering Student</b><br>
+  Java Developer • Python Programmer • DSA Learner • AI Enthusiast
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Engineering student who enjoys transforming ideas into practical software solutions. My interests lie in software development, artificial intelligence, and problem-solving through clean, efficient code.
-
-I believe that consistent learning and hands-on experience are the keys to becoming a skilled software engineer. Every project I build and every concept I learn helps me grow as a developer.
-
----
-
-## 🌱 What I'm Currently Working On
-
-* ☕ Strengthening my Java programming skills
-* 🔵 Learning Data Structures & Algorithms in C
-* 🐍 Revising Python fundamentals
-* 🌿 Mastering Git & GitHub for collaborative development
-* 🌐 Developing my personal portfolio website
-* 🤖 Exploring Artificial Intelligence and modern AI tools
-* 🚀 Building projects that solve real-world problems
+- 🎓 B.Tech CSE Student
+- ☕ Learning Java & Data Structures and Algorithms
+- 🐍 Strong foundation in Python
+- 🤖 Exploring AI & Automation
+- 🚀 Building projects and improving every day
 
 ---
 
-## 🎯 Career Objective
+## 🛠️ Tech Stack
 
-My goal is to become a skilled Software Engineer capable of building scalable, efficient, and user-friendly applications. I am continuously improving my technical knowledge while expanding my experience through projects, open-source contributions, and continuous learning.
-
----
-
-## 💡 Areas of Interest
-
-* Software Development
-* Artificial Intelligence
-* Data Structures & Algorithms
-* Open Source
-* Backend Development
-* Problem Solving
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 📫 Connect with Me
 
-### Programming Languages
-
-* Java
-* Python
-* C
-
-### Development Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-
-### Engineering Tools
-
-* MATLAB
-* Simulink
-* AutoCAD
-
-### Currently Exploring
-
-* Object-Oriented Programming
-* GitHub Actions
-* AI Applications
-* Clean Code Practices
+- 📧 **Email:** saisubhash.kolanu@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sai-subhash-kolanu-358ba0376/
+- 💻 **GitHub:** https://github.com/Subhashkolanu
+- 💡 **LeetCode:** https://leetcode.com/u/subhashkolanu/
+- ⭐ **HackerRank:** https://www.hackerrank.com/profile/kos720500
+- 🍽️ **CodeChef:** https://www.codechef.com/users/kos720500
+- 🆔 **ORCID:** 0009-0006-2406-0915
 
 ---
 
-## 🚀 Featured Repositories
-
-### ☕ Java Repository
-
-A collection of Java programs covering core concepts, object-oriented programming, and coding practice.
-
-### 🐍 Python Repository
-
-Python fundamentals, mini-projects, automation scripts, and programming exercises.
-
-### 🔵 C Repository
-
-Programs focused on C fundamentals and Data Structures & Algorithms.
-
-### 🤖 AI Repository
-
-Experiments, learning resources, and AI-based applications.
-
-### 🌐 Portfolio Website
-
-A modern portfolio showcasing my projects, certifications, and technical journey.
-
----
-
-## 📈 What You'll Find on My GitHub
-
-* Programming Practice
-* Academic Projects
-* Personal Projects
-* AI Experiments
-* Continuous Learning Progress
-* Open Source Contributions (Upcoming)
-
----
-
-## 🎓 Currently Learning
-
-* Java
-* Data Structures & Algorithms
-* Software Development
-* Artificial Intelligence
-* Git & GitHub
-
----
-
-## 🎯 Goals for 2026
-
-* Master Java Programming
-* Become proficient in DSA
-* Build multiple real-world projects
-* Contribute to open source
-* Earn industry-recognized certifications
-* Secure a Software Engineering Internship
-
----
-
-## 🤝 Let's Connect
-
-* 🌐 GitHub: **github.com/Subhashkolanu**
-* 💼 LinkedIn: **linkedin.com/in/sai-subhash-kolanu-358ba0376**
-
----
-
-### 💬 Favorite Quote
-
-> *"Great software is built one line of code at a time. Consistency turns learning into expertise."*
-
----
-
-⭐ **Thank you for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning, building, and growing as a software developer.**
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
