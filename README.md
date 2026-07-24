@@ -30,9 +30,6 @@
 - 📧 **Email:** saisubhash.kolanu@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sai-subhash-kolanu-358ba0376/
 - 💻 **GitHub:** https://github.com/Subhashkolanu
-- 💡 **LeetCode:** https://leetcode.com/u/subhashkolanu/
-- ⭐ **HackerRank:** https://www.hackerrank.com/profile/kos720500
-- 🍽️ **CodeChef:** https://www.codechef.com/users/kos720500
 - 🆔 **ORCID:** 0009-0006-2406-0915
 
 ---
