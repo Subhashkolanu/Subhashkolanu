@@ -1,123 +1,142 @@
-<h1 align="center">Hi 👋, I'm Sai Subhash Kolanu</h1>
+# Hi there! 👋 I'm **Sai Subhash Kolanu**
 
-<h3 align="center">
-Computer Science Engineering Student • Aspiring Software Engineer • AI Enthusiast
-</h3>
-
-<p align="center">
-  <em>"Learning, Building, and Growing — One Project at a Time."</em>
-</p>
+### 💻 Computer Science Engineering Student | ☕ Java Developer | 🤖 AI Enthusiast | 🚀 Aspiring Software Engineer
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **Computer Science Engineering student** passionate about software development, artificial intelligence, and solving real-world problems through technology.
+I am a Computer Science Engineering student who enjoys transforming ideas into practical software solutions. My interests lie in software development, artificial intelligence, and problem-solving through clean, efficient code.
 
-I enjoy learning new technologies, building practical projects, and continuously improving my programming skills. My GitHub documents my journey as I grow into a software engineer through consistent learning, experimentation, and hands-on development.
-
----
-
-# 🚀 Current Focus
-
-- ☕ Mastering Java Programming
-- 🔵 Learning Data Structures & Algorithms
-- 🐍 Strengthening Python
-- 🌱 Improving Git & GitHub skills
-- 🤖 Exploring Artificial Intelligence
-- 🌐 Building real-world software projects
+I believe that consistent learning and hands-on experience are the keys to becoming a skilled software engineer. Every project I build and every concept I learn helps me grow as a developer.
 
 ---
 
-# 💡 Areas of Interest
+## 🌱 What I'm Currently Working On
 
-- Software Development
-- Artificial Intelligence
-- Backend Development
-- Problem Solving
-- Open Source
-- Clean Code Practices
+* ☕ Strengthening my Java programming skills
+* 🔵 Learning Data Structures & Algorithms in C
+* 🐍 Revising Python fundamentals
+* 🌿 Mastering Git & GitHub for collaborative development
+* 🌐 Developing my personal portfolio website
+* 🤖 Exploring Artificial Intelligence and modern AI tools
+* 🚀 Building projects that solve real-world problems
 
 ---
 
-# 🛠️ Technical Skills
+## 🎯 Career Objective
+
+My goal is to become a skilled Software Engineer capable of building scalable, efficient, and user-friendly applications. I am continuously improving my technical knowledge while expanding my experience through projects, open-source contributions, and continuous learning.
+
+---
+
+## 💡 Areas of Interest
+
+* Software Development
+* Artificial Intelligence
+* Data Structures & Algorithms
+* Open Source
+* Backend Development
+* Problem Solving
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-- Java
-- Python
-- C
+* Java
+* Python
+* C
 
-### Tools & Technologies
+### Development Tools
 
-- Git
-- GitHub
-- Visual Studio Code
-- MATLAB
-- Simulink
-- AutoCAD
+* Git
+* GitHub
+* Visual Studio Code
+
+### Engineering Tools
+
+* MATLAB
+* Simulink
+* AutoCAD
+
+### Currently Exploring
+
+* Object-Oriented Programming
+* GitHub Actions
+* AI Applications
+* Clean Code Practices
 
 ---
 
-# 📂 Featured Repositories
+## 🚀 Featured Repositories
 
-### ☕ Java
-Practice programs covering Java fundamentals, Object-Oriented Programming, and coding exercises.
+### ☕ Java Repository
 
-### 🐍 Python
-Programming exercises, mini-projects, and problem-solving practice.
+A collection of Java programs covering core concepts, object-oriented programming, and coding practice.
 
-### 🔵 C Programming
-Fundamental programs and Data Structures & Algorithms implementation.
+### 🐍 Python Repository
 
-### 🤖 AI Projects
-Experiments and learning projects related to Artificial Intelligence.
+Python fundamentals, mini-projects, automation scripts, and programming exercises.
+
+### 🔵 C Repository
+
+Programs focused on C fundamentals and Data Structures & Algorithms.
+
+### 🤖 AI Repository
+
+Experiments, learning resources, and AI-based applications.
 
 ### 🌐 Portfolio Website
-A responsive portfolio showcasing my projects, skills, certifications, and technical journey.
+
+A modern portfolio showcasing my projects, certifications, and technical journey.
 
 ---
 
-# 📈 What You'll Find Here
+## 📈 What You'll Find on My GitHub
 
-- Programming Practice
-- Academic Projects
-- Personal Projects
-- AI Experiments
-- Continuous Learning
-- Future Open Source Contributions
-
----
-
-# 🎯 Goals for 2026
-
-- ✅ Master Java Programming
-- ✅ Build Strong DSA Skills
-- ✅ Develop Real-World Projects
-- ✅ Contribute to Open Source
-- ✅ Earn Industry Certifications
-- ✅ Secure a Software Engineering Internship
+* Programming Practice
+* Academic Projects
+* Personal Projects
+* AI Experiments
+* Continuous Learning Progress
+* Open Source Contributions (Upcoming)
 
 ---
 
-# 🤝 Connect With Me
+## 🎓 Currently Learning
 
-- 🌐 GitHub: https://github.com/Subhashkolanu
-- 💼 LinkedIn: https://www.linkedin.com/in/sai-subhash-kolanu-358ba0376/
-
----
-
-# 💬 Quote
-
-> **"Success is not about being the best. It is about becoming better than yesterday through consistent learning and continuous improvement."**
+* Java
+* Data Structures & Algorithms
+* Software Development
+* Artificial Intelligence
+* Git & GitHub
 
 ---
 
-<h3 align="center">
-⭐ Thank you for visiting my profile! ⭐
-</h3>
+## 🎯 Goals for 2026
 
-<p align="center">
-Feel free to explore my repositories and follow my journey as I continue learning, building, and growing as a software developer.
-</p>
-```
+* Master Java Programming
+* Become proficient in DSA
+* Build multiple real-world projects
+* Contribute to open source
+* Earn industry-recognized certifications
+* Secure a Software Engineering Internship
+
+---
+
+## 🤝 Let's Connect
+
+* 🌐 GitHub: **github.com/Subhashkolanu**
+* 💼 LinkedIn: **linkedin.com/in/sai-subhash-kolanu-358ba0376**
+
+---
+
+### 💬 Favorite Quote
+
+> *"Great software is built one line of code at a time. Consistency turns learning into expertise."*
+
+---
+
+⭐ **Thank you for visiting my profile! Feel free to explore my repositories and follow my journey as I continue learning, building, and growing as a software developer.**
