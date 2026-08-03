@@ -32,7 +32,7 @@ An all-in-one online toolkit that provides useful web utilities such as file con
 
 **Goal:** Build a fast, simple, and free platform that solves everyday problems in one place.
 
-🌐 **Website:** https://omnikit.site
+🌐 **Website:** https://getomnikit.vercel.app
 
 ---
 
