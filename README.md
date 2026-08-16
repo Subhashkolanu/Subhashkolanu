@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sai Subhash Kolanu</h1>
 
 <p align="center">
@@ -25,21 +24,41 @@
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Projects
 
 ### OmniKit
+
 An all-in-one online toolkit that provides useful web utilities such as file converters, text tools, generators, calculators, and productivity tools.
 
 **Goal:** Build a fast, simple, and free platform that solves everyday problems in one place.
 
-🌐 **Website:** https://getomnikit.vercel.app
+🌐 **Website:** https://getomnikit.vercel.app  
+💻 **Repository:** https://github.com/Subhashkolanu/OmniKit
+
+### sAI
+
+A user-friendly interface for running and interacting with AI models locally, without relying on cloud-based AI services.
+
+**Goal:** Provide a simple UI for offline AI models, making local AI more accessible and easier to use.
+
+### DocFusion
+
+A document-focused application aimed at making document handling easier by bringing useful document operations into a single platform.
+
+### Attendance App
+
+An application designed to simplify attendance management and make tracking student attendance more convenient.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode,aws" />
+</p>
+
+<p align="center">
+  <b>AI & Prompt Engineering:</b> ChatGPT • OpenAI • Prompt Engineering • AI Tools & Automation
 </p>
 
 ---
@@ -66,4 +85,3 @@ An all-in-one online toolkit that provides useful web utilities such as file con
 <p align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </p>
-```
