@@ -1,19 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sai Subhash Kolanu</h1>
+Hi 👋, I'm Sai Subhash Kolanu
+
+Computer Science Engineering Student
+
+Java Developer • Python Programmer • DSA Learner • AI Enthusiast
 
 <p align="center">
-  <b>Computer Science Engineering Student</b><br>
-  Java Developer • Python Programmer • DSA Learner • AI Enthusiast
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Subhashkolanu&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+</p>---
 
-<p align="center">
-  <a href="https://github.com/Subhashkolanu">
-    <img src="https://komarev.com/ghpvc/?username=Subhashkolanu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
 - ☕ Learning Java & Data Structures and Algorithms
@@ -24,64 +19,112 @@
 
 ---
 
-## 🚀 Current Projects
+🚀 Current Projects
 
-### OmniKit
+🔧 OmniKit
 
-An all-in-one online toolkit that provides useful web utilities such as file converters, text tools, generators, calculators, and productivity tools.
+An all-in-one online toolkit providing useful web utilities such as file converters, text tools, generators, calculators, and productivity tools.
 
-**Goal:** Build a fast, simple, and free platform that solves everyday problems in one place.
+Goal: Build a fast, simple, and free platform that solves everyday problems in one place.
 
-🌐 **Website:** https://getomnikit.vercel.app  
-💻 **Repository:** https://github.com/Subhashkolanu/OmniKit
+🌐 Website: https://getomnikit.vercel.app
+💻 Repository: https://github.com/Subhashkolanu/OmniKit
 
-### sAI
+🧠 sAI
 
 A user-friendly interface for running and interacting with AI models locally, without relying on cloud-based AI services.
 
-**Goal:** Provide a simple UI for offline AI models, making local AI more accessible and easier to use.
+Goal: Make local AI models easier and more accessible through a simple interface.
 
-### DocFusion
+📄 DocFusion
 
 A document-focused application aimed at making document handling easier by bringing useful document operations into a single platform.
 
-### Attendance App
+📝 Attendance App
 
 An application designed to simplify attendance management and make tracking student attendance more convenient.
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode,aws" />
-</p>
+Languages
 
-<p align="center">
-  <b>AI & Prompt Engineering:</b> ChatGPT • OpenAI • Prompt Engineering • AI Tools & Automation
-</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>AI & Automation
+
+ChatGPT • OpenAI • Prompt Engineering • AI Tools • Automation
 
 ---
 
-## 🎯 Currently Learning
+🎯 Currently Learning
 
 - Java Programming
-- Data Structures & Algorithms
 - Object-Oriented Programming
-- AI Tools & Automation
+- Data Structures & Algorithms
 - Git & GitHub Best Practices
+- AI Tools & Automation
 
 ---
 
-## 📫 Connect With Me
+💻 Coding Profiles
 
-- 📧 **Email:** saisubhash.kolanu@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sai-subhash-kolanu-358ba0376/
-- 💻 **GitHub:** https://github.com/Subhashkolanu
-- 🆔 **ORCID:** 0009-0006-2406-0915
+<p align="center"><a href="https://www.codechef.com/users/vvitucsbt10480">
+  <img src="https://img.shields.io/badge/CodeChef-vvitucsbt10480-brown?style=for-the-badge&logo=codechef" />
+</a><a href="https://leetcode.com/u/subhashkolanu/">
+  <img src="https://img.shields.io/badge/LeetCode-subhashkolanu-orange?style=for-the-badge&logo=leetcode" />
+</a><a href="https://www.hackerrank.com/profile/kos720500">
+  <img src="https://img.shields.io/badge/HackerRank-kos720500-green?style=for-the-badge&logo=hackerrank" />
+</a></p>---
 
----
+🔥 CodeChef Activity
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  <img src="https://codechef-api.vercel.app/heatmap/vvitucsbt10480?theme=dark" alt="CodeChef Heatmap"/>
+</p><p align="center">
+  <a href="https://www.codechef.com/users/vvitucsbt10480">
+    View my CodeChef Profile →
+  </a>
+</p>---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhashkolanu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashkolanu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>---
+
+🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Subhashkolanu&theme=tokyonight&hide_border=true" />
+</p>---
+
+📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashkolanu&theme=tokyo-night&hide_border=true" />
+</p>---
+
+📫 Connect With Me
+
+<p align="center"><a href="mailto:saisubhash.kolanu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/sai-subhash-kolanu-358ba0376/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/Subhashkolanu">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://orcid.org/0009-0006-2406-0915">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a></p>---
+
+<p align="center">⭐ Thanks for visiting my profile!
+
+Keep Learning • Keep Building • Keep Growing
+
 </p>
