@@ -5,7 +5,7 @@ Computer Science Engineering Student
 Java Developer • Python Programmer • DSA Learner • AI Enthusiast
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Subhashkolanu&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Subhashkolanu&label=Profile%20Views&style=flat" alt="Profile Views"/>
 </p>---
 
 👨‍💻 About Me
@@ -48,17 +48,9 @@ An application designed to simplify attendance management and make tracking stud
 
 🛠️ Tech Stack
 
-Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python" />
-</p>Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>AI & Automation
-
-ChatGPT • OpenAI • Prompt Engineering • AI Tools • Automation
+  <img src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,androidstudio" />
+</p>AI & Automation: ChatGPT • OpenAI • Prompt Engineering • AI Tools • Automation
 
 ---
 
@@ -72,40 +64,15 @@ ChatGPT • OpenAI • Prompt Engineering • AI Tools • Automation
 
 ---
 
-💻 Coding Profiles
-
-<p align="center"><a href="https://www.codechef.com/users/vvitucsbt10480">
-  <img src="https://img.shields.io/badge/CodeChef-vvitucsbt10480-brown?style=for-the-badge&logo=codechef" />
-</a><a href="https://leetcode.com/u/subhashkolanu/">
-  <img src="https://img.shields.io/badge/LeetCode-subhashkolanu-orange?style=for-the-badge&logo=leetcode" />
-</a><a href="https://www.hackerrank.com/profile/kos720500">
-  <img src="https://img.shields.io/badge/HackerRank-kos720500-green?style=for-the-badge&logo=hackerrank" />
-</a></p>---
-
-🔥 CodeChef Activity
+💻 Coding Profile
 
 <p align="center">
-  <img src="https://codechef-api.vercel.app/heatmap/vvitucsbt10480?theme=dark" alt="CodeChef Heatmap"/>
-</p><p align="center">
   <a href="https://www.codechef.com/users/vvitucsbt10480">
-    View my CodeChef Profile →
+    <img src="https://img.shields.io/badge/CodeChef-vvitucsbt10480-brown?style=for-the-badge&logo=codechef" />
   </a>
 </p>---
 
-📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhashkolanu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashkolanu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>---
-
-🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Subhashkolanu&theme=tokyonight&hide_border=true" />
-</p>---
-
-📈 GitHub Contribution Graph
+📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashkolanu&theme=tokyo-night&hide_border=true" />
